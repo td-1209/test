@@ -1,0 +1,18 @@
+name: feat
+description: 新機能追加
+title: "[feat]: "
+labels: ["feat"]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: 機能説明
+      description: 実装したい機能について記載してください。
+      placeholder: ユーザーが〜できるようにしたい。
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 追加情報
+      description: 関連する技術情報、スクリーンショット、例などがあれば追加してください。
