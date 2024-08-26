@@ -9,8 +9,6 @@ body:
       label: 機能説明
       description: 実装したい機能について記載してください。
       placeholder: ユーザーが〜できるようにしたい。
-    validations:
-      required: true
   - type: textarea
     id: additional-context
     attributes:
