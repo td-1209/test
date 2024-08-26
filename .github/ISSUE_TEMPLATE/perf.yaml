@@ -1,5 +1,5 @@
 name: perf
-description: バグ・技術的負債・その他の品質改善事項
+description: パフォーマンスを改善するコード変更
 title: "[perf]: "
 labels: ["perf"]
 body:
